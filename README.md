@@ -1,2 +1,2 @@
-# Vessel-Shaders-Minecraft
+# Cloud-Shaders-Minecraft
 Here you can report issues with Vessel Shaders
